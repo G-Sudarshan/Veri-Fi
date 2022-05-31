@@ -7,7 +7,7 @@ Blockchain based decentralized portal for issuing and verifying directives and n
 
 ## Login Screen
 
-![login](https://github.com/G-Sudarshan/Veri-Fi/blob/main/docs/img/login.PNG)
+![login](https://github.com/G-Sudarshan/Veri-Fi/blob/main/docs/img/login.png)
 
 ---
 
